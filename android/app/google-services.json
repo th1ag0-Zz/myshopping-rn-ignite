@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152566279900",
+    "project_id": "myshopping-rn-rocketseat",
+    "storage_bucket": "myshopping-rn-rocketseat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152566279900:android:a3d4eb2da3215ecf0f4e19",
+        "android_client_info": {
+          "package_name": "com.th1ag0zz.myshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152566279900-rnfphvdi58ie6se04kp89nibe7vk9ntm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.th1ag0zz.myshopping",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "152566279900-6hnur8t77vcdvf3jkic0e0nr77bkanqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNbpgz7XV9tilnRR-ZmCqg4_TgPbG7MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152566279900-6hnur8t77vcdvf3jkic0e0nr77bkanqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
